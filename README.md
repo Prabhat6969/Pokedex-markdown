@@ -7,6 +7,7 @@
 | 012 | Butterfree | Bug | ![Butterfree](https://cdn.bulbagarden.net/upload/d/d1/012Butterfree.png)
 | 011 | Metapod | Bug | ![Metapod](https://img.pokemondb.net/artwork/large/metapod.jpg)|
 | 012 | Butterfree | Bug | ![Butterfree](https://cdn.bulbagarden.net/upload/d/d1/012Butterfree.png)|
+| 180 | Flaaffy | Electric| ![Fluffy](https://assets.pokemon.com/assets/cms2/img/pokedex/full/180.png) |
 | 069 | Bellsprout | Grass | ![Bellsprout](https://assets.pokemon.com/assets/cms2/img/pokedex/full/069.png)
 | 699 | Aurorus | Water |![Aurorus](https://assets.pokemon.com/assets/cms2/img/pokedex/full/699.png)| 
 | 722 | Rowlet | Grass/Flying | ![Rowlet](https://img.pokemondb.net/artwork/large/rowlet.jpg)|
